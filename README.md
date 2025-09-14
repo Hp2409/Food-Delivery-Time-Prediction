@@ -6,7 +6,7 @@ into a modular, GitHub-friendly structure.
 The project focuses on predicting **food delivery times** using real-world data
 from [Kaggle’s Food Delivery Time Prediction Case Study](https://www.kaggle.com/datasets/bhanupratapbiswas/food-delivery-time-prediction-case-study).
 
-## 📖 Background & Theory
+## Background & Theory
 
 Food delivery services are a critical part of modern lifestyles. Customers
 expect timely and accurate delivery estimates, but predicting delivery times is
